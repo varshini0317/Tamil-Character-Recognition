@@ -1,0 +1,14 @@
+Tamil character recognition
+
+A system for recognizing Tamil Handwritten characters in real time.
+
+
+Convolutional Neual Network (CNN) is trained to recognize Tamil handwritten characters. 
+Then, the trained model is used with an interface to recognize characters in real time.
+
+
+The dataset is obtained from HP Labs India collected from native Tamil writers. 
+There are about 156 characters with each character consisting of approximately 500 samples making the dataset about 82929 images in total. The dataset is available at [HP Website](http://shiftleft.com/mirrors/www.hpl.hp.com/india/research/penhw-resources/hpl-tamil-iso-char-offline-1.0.tar.gz) or at [this link](https://drive.google.com/file/d/1mHnU1H_dgHokMYbatoMJH2H9W4j1cP8k/view?usp=sharing).
+The characters available can be seen below,
+
+<img src="https://raw.githubusercontent.com/narendiran1996/tamil_character_recognition/main/DocResources/tamilChar.png" alt="Tamil Characters Dataset"/>
